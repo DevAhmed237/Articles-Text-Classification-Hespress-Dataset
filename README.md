@@ -1,4 +1,4 @@
-# Task-3-Hespress-Dataset-Text-Classification
+# Articles-Text-Classification-Hespress-Dataset
 ## Steps involved in the training process:
 1) The dataset was collected from multiple CSV files, 1 for each topic, containing stories data from the Hespress dataset. The data was split into training and test sets, with the last 20% of each file used for testing.
    
